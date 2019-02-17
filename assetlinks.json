@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.reactiongames.onebyone",
+    "sha256_cert_fingerprints":
+    ["00:CF:43:76:C4:56:C0:61:8C:26:0D:7A:1E:DC:CC:65:0C:F7:9F:DA:D3:38:19:8C:4E:70:8D:D2:DF:09:D3:D7"]
+  }
+}]
